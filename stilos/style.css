@@ -8,3 +8,9 @@ body h3 {
     color: black;
     background-color: white;
 }
+
+.cabecera{
+    color: black;
+    border: 2px solid red;
+    background-color: orange;
+}

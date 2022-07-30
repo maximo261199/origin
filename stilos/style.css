@@ -1,0 +1,10 @@
+body{
+    background-color: gray;
+    color: green;
+    font-family: "Arial";
+}
+
+body h3 {
+    color: black;
+    background-color: white;
+}

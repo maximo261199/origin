@@ -1,16 +1,23 @@
 body{
+<<<<<<< HEAD
     background-color: blue;
     color: green;
+=======
+    background-color: orange;
+    color: blue;
+>>>>>>> developer
     font-family: "Arial";
 }
 
 body h3 {
     color: black;
-    background-color: white;
+    background-color: red;
 }
 
 .cabecera{
     color: black;
     border: 2px solid red;
-    background-color: orange;
+    font-style: normal;
+    background-color: white;
 }
+

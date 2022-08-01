@@ -20,15 +20,25 @@ body h3 {
 
 .division{
     display: flex;
-    flex-direction: column;   
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;  
+    width: 100vw;
+    text-align: center;
 }
 
 .azul{
     background-color:blue;
     color: red;
+    width: 10vw;
 }
 .rojo{
     background-color: red;
     color: blue;
+<<<<<<< HEAD
 }
 
+=======
+    width: 10vw;
+}
+>>>>>>> developer

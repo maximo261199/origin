@@ -16,3 +16,16 @@ body h3 {
     background-color: white;
 }
 
+.division{
+    display: flex;
+    flex-direction: column;   
+}
+
+.azul{
+    background-color:blue;
+    color: red;
+}
+.rojo{
+    background-color: red;
+    color: blue;
+}

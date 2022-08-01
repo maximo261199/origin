@@ -2,6 +2,8 @@ body{
     background-color: orange;
     color: blue;
     font-family: "Arial";
+    text-align: center;
+
 }
 
 body h3 {
@@ -29,3 +31,4 @@ body h3 {
     background-color: red;
     color: blue;
 }
+
